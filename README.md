@@ -1,4 +1,4 @@
-# pgweb-acara1-raga
+# Biodata
 
 Perencanaan produk web GIS dan Git
 
@@ -8,6 +8,6 @@ NIM: 22/494436/SV/20823
 
 Kelas: A
 
-Avatar
+Avatar :
 
 <img src="image/zuko.png" width="200">
